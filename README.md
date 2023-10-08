@@ -41,3 +41,7 @@ To run the analysis, execute the Jupyter Notebook file YouTube_Video_Analysis.ip
 
 ## Results
 The project will provide insights into YouTube video performance, helping content creators and marketers make data-driven decisions.
+
+## Acknowledgments
+Thanks to [Dataset Source] for providing the data used in this analysis.
+Credit to the open-source community for creating valuable data analysis tools and libraries.
